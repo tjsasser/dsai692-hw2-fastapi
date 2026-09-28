@@ -3,4 +3,4 @@ WORKDIR /app
 COPY * ./
 RUN pip install -r requirements.txt
 EXPOSE 8000
-CMD ["fastapi", "run", “extract_save_data.py”, "--port=8000"]
+CMD ['fastapi', 'run', 'extract_save_data.py', '--port=8000']
