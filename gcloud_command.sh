@@ -85,7 +85,7 @@ gcloud run deploy "$API_SERVICE" \
 #          the mounted key?
 gcloud run services update "$API_SERVICE" \
   --region "$REGION" \
-  --update-env-vars=GCP_SERVICE_ACCOUNT_KEY="$LOCAL_KEY_FILE"
+  --update-env-vars=GCP_SERVICE_ACCOUNT_KEY="$SECRET_MOUNT_PATH"
 
 # =====================================================================
 # STEP 3 -- read back the API server's public URL (provided).
@@ -157,7 +157,7 @@ fi
 gcloud scheduler jobs "$SCHEDULER_ACTION" http "$SCHEDULER_JOB" \
   --location="$REGION" \
   --schedule="$SCHEDULE" \
-  --uri="API_SERVER_URL/search_and_save/jobs" \
+  --uri="API_SERVER_URL$SEARCH_PATH" \
   --http-method=POST \
   --headers="Content-Type=application/json" \
   --message-body="$MESSAGE_BODY"
