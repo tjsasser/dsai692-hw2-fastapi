@@ -157,7 +157,7 @@ fi
 gcloud scheduler jobs "$SCHEDULER_ACTION" http "$SCHEDULER_JOB" \
   --location="$REGION" \
   --schedule="$SCHEDULE" \
-  --uri="API_SERVER_URL$SEARCH_PATH" \
+  --uri="$API_SERVER_URL$SEARCH_PATH" \
   --http-method=POST \
   --headers="Content-Type=application/json" \
   --message-body="$MESSAGE_BODY"
