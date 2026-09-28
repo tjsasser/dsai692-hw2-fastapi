@@ -1,0 +1,546 @@
+10 results
+
+[
+  {
+    "id": "0",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/0",
+      "id": "0",
+      "derivedStructData": {
+        "snippets": [
+          {
+            "snippet": "We're seeking a Data Engineer to take the lead in building our data pipelines and core tables for OpenAI. These pipelines are crucial for powering analyses,\u00a0...",
+            "htmlSnippet": "We&#39;re seeking a <b>Data Engineer</b> to take the lead in building our data pipelines and core tables for OpenAI. These pipelines are crucial for powering analyses,&nbsp;..."
+          }
+        ],
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "width": "300",
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSqfoQ5Ys9d_6tu849yHSy3faRkv9n0oRT6lZnkeaWPid7crfkuma-JM&s",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "twitter:image:width": "1600",
+              "twitter:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "twitter:card": "summary_large_image",
+              "twitter:image:height": "900",
+              "twitter:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:description": "Applied AI Engineering \u00b7 Seattle \u00b7 FullTime",
+              "og:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "og:description": "Applied AI Engineering \u00b7 Seattle \u00b7 FullTime",
+              "twitter:title": "Data Engineer, Core Experimentation",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Data Engineer, Core Experimentation",
+              "og:image:height": "900",
+              "og:image:width": "1600",
+              "twitter:site": "@OpenAI"
+            }
+          ]
+        },
+        "formattedUrl": "https://openai.com/careers/data-engineer-core-experimentation-seattle/",
+        "displayLink": "openai.com",
+        "htmlTitle": "<b>Data Engineer</b>, Core Experimentation | OpenAI",
+        "link": "https://openai.com/careers/data-engineer-core-experimentation-seattle/",
+        "title": "Data Engineer, Core Experimentation | OpenAI",
+        "htmlFormattedUrl": "https://openai.com/careers/<b>data</b>-<b>engineer</b>-core-experimentation-seattle/"
+      }
+    }
+  },
+  {
+    "id": "1",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/1",
+      "id": "1",
+      "derivedStructData": {
+        "displayLink": "openai.com",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "width": "300",
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSqfoQ5Ys9d_6tu849yHSy3faRkv9n0oRT6lZnkeaWPid7crfkuma-JM&s",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "twitter:image:width": "1600",
+              "twitter:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "twitter:card": "summary_large_image",
+              "twitter:image:height": "900",
+              "twitter:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:description": "IT \u00b7 San Francisco \u00b7 FullTime",
+              "og:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "og:description": "IT \u00b7 San Francisco \u00b7 FullTime",
+              "twitter:title": "IT Controls Data Engineer",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:image:height": "900",
+              "og:title": "IT Controls Data Engineer",
+              "og:image:width": "1600",
+              "twitter:site": "@OpenAI"
+            }
+          ]
+        },
+        "formattedUrl": "https://openai.com/careers/it-controls-data-engineer-san-francisco/",
+        "snippets": [
+          {
+            "snippet": "In this role, you will design and maintain the pipelines, datasets, models, validation logic, dashboards, and evidence exports that make IT controls measurable,\u00a0...",
+            "htmlSnippet": "In this role, you will design and maintain the pipelines, datasets, models, validation logic, dashboards, and evidence exports that make IT controls measurable,&nbsp;..."
+          }
+        ],
+        "htmlTitle": "IT Controls <b>Data Engineer</b> | OpenAI",
+        "link": "https://openai.com/careers/it-controls-data-engineer-san-francisco/",
+        "title": "IT Controls Data Engineer | OpenAI",
+        "htmlFormattedUrl": "https://openai.com/careers/it-controls-<b>data</b>-<b>engineer</b>-san-francisco/"
+      }
+    }
+  },
+  {
+    "id": "2",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/2",
+      "id": "2",
+      "derivedStructData": {
+        "snippets": [
+          {
+            "snippet": "We're seeking a Data Engineer to build data-intensive systems that will power People Innovation Labs' internal products and enable the People Analytics function\u00a0...",
+            "htmlSnippet": "We&#39;re seeking a <b>Data Engineer</b> to build data-intensive systems that will power People Innovation Labs&#39; internal products and enable the People Analytics function&nbsp;..."
+          }
+        ],
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSqfoQ5Ys9d_6tu849yHSy3faRkv9n0oRT6lZnkeaWPid7crfkuma-JM&s",
+              "width": "300",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "twitter:image:width": "1600",
+              "twitter:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "twitter:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:height": "900",
+              "twitter:card": "summary_large_image",
+              "og:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:description": "People Innovation Labs \u00b7 San Francisco \u00b7 FullTime",
+              "og:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "og:description": "People Innovation Labs \u00b7 San Francisco \u00b7 FullTime",
+              "twitter:title": "Data Engineer, People Innovation Labs",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Data Engineer, People Innovation Labs",
+              "og:image:height": "900",
+              "og:image:width": "1600",
+              "twitter:site": "@OpenAI"
+            }
+          ]
+        },
+        "formattedUrl": "https://openai.com/.../data-engineer-people-innovation-labs-san-francisco/",
+        "htmlFormattedUrl": "https://openai.com/.../<b>data</b>-<b>engineer</b>-people-innovation-labs-san-francisco/",
+        "htmlTitle": "<b>Data Engineer</b>, People Innovation Labs | OpenAI",
+        "link": "https://openai.com/careers/data-engineer-people-innovation-labs-san-francisco/",
+        "title": "Data Engineer, People Innovation Labs | OpenAI",
+        "displayLink": "openai.com"
+      }
+    }
+  },
+  {
+    "id": "3",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/3",
+      "id": "3",
+      "derivedStructData": {
+        "displayLink": "openai.com",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "width": "300",
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSqfoQ5Ys9d_6tu849yHSy3faRkv9n0oRT6lZnkeaWPid7crfkuma-JM&s",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "twitter:image:width": "1600",
+              "twitter:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "twitter:card": "summary_large_image",
+              "twitter:image:height": "900",
+              "twitter:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:description": "Applied AI Engineering \u00b7 2 locations \u00b7 FullTime",
+              "og:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "og:description": "Applied AI Engineering \u00b7 2 locations \u00b7 FullTime",
+              "twitter:title": "Data Engineer, Monetization Data Platform",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Data Engineer, Monetization Data Platform",
+              "og:image:height": "900",
+              "og:image:width": "1600",
+              "twitter:site": "@OpenAI"
+            }
+          ]
+        },
+        "formattedUrl": "https://openai.com/.../data-engineer-monetization-data-platform-mountain-...",
+        "snippets": [
+          {
+            "snippet": "In this role, you will. Design, build, and operate large streaming and batch data pipelines that process product, financial, and operational data from a variety\u00a0...",
+            "htmlSnippet": "In this role, you will. Design, build, and operate large streaming and batch <b>data</b> pipelines that process product, financial, and operational <b>data</b> from a variety&nbsp;..."
+          }
+        ],
+        "htmlTitle": "<b>Data Engineer</b>, Monetization Data Platform | OpenAI",
+        "link": "https://openai.com/careers/data-engineer-monetization-data-platform-mountain-view/",
+        "title": "Data Engineer, Monetization Data Platform | OpenAI",
+        "htmlFormattedUrl": "https://openai.com/.../<b>data</b>-<b>engineer</b>-monetization-<b>data</b>-platform-mountain-..."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/4",
+      "id": "4",
+      "derivedStructData": {
+        "displayLink": "www.google.com",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png"
+            }
+          ],
+          "metatags": [
+            {
+              "format-detection": "telephone=no",
+              "twitter:image": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png",
+              "referrer": "origin",
+              "twitter:card": "summary_large_image",
+              "handheldfriendly": "true",
+              "twitter:url": "https://careers.google.com/jobs/results/72704944984990406",
+              "og:url": "https://careers.google.com/jobs/results/72704944984990406",
+              "og:image": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png",
+              "twitter:description": "As The Data Engineer, Geo Operations, you will execute full-cycle processing pipelines of complex data, within the scope of a larger project with guidance from manager, team lead, or colleagues, within bounded time. You will have an additional focus on managing the team's Cloud infrastructure and the industry-standard geospatial platforms deployed within it.\nThe Geo team is focused on building the most accurate, comprehensive, and useful maps for our users, through products like Maps, Earth, Street View, Google Maps Platform, and more. Every month, more than a billion people rely on Maps services to explore the world and navigate their daily lives. \nThe Geo team also enables developers to use the power of Google Maps platforms to enhance their apps and websites. As they plot a course for the future of mapping, they are solving complex computer science problems, designing beautiful and intuitive product experiences, and improving our understanding of the real world.\nIndividual pay is determined by factors incl",
+              "og:image:alt": "Google Careers",
+              "og:description": "As The Data Engineer, Geo Operations, you will execute full-cycle processing pipelines of complex data, within the scope of a larger project with guidance from manager, team lead, or colleagues, within bounded time. You will have an additional focus on managing the team's Cloud infrastructure and the industry-standard geospatial platforms deployed within it.\nThe Geo team is focused on building the most accurate, comprehensive, and useful maps for our users, through products like Maps, Earth, Street View, Google Maps Platform, and more. Every month, more than a billion people rely on Maps services to explore the world and navigate their daily lives. \nThe Geo team also enables developers to use the power of Google Maps platforms to enhance their apps and websites. As they plot a course for the future of mapping, they are solving complex computer science problems, designing beautiful and intuitive product experiences, and improving our understanding of the real world.\nIndividual pay is determined by factors incl",
+              "application-url": "https://careers.google.com/",
+              "twitter:title": "Data Engineer, Google Maps",
+              "apple-mobile-web-app-capable": "yes",
+              "viewport": "width=device-width, initial-scale=1",
+              "mobileoptimized": "width",
+              "og:type": "website",
+              "og:title": "Data Engineer, Google Maps"
+            }
+          ]
+        },
+        "formattedUrl": "https://www.google.com/.../72704944984990406-data-engineer-google-ma...",
+        "snippets": [
+          {
+            "snippet": "Minimum qualifications: Bachelor's degree or equivalent practical experience. 1 year of experience coding in one or more programming languages.",
+            "htmlSnippet": "Minimum qualifications: Bachelor&#39;s degree or equivalent practical experience. 1 year of experience coding in one or more programming languages."
+          }
+        ],
+        "htmlTitle": "<b>Data Engineer</b>, Google Maps - Careers",
+        "link": "https://www.google.com/about/careers/applications/jobs/results/72704944984990406-data-engineer-google-maps",
+        "title": "Data Engineer, Google Maps - Careers",
+        "htmlFormattedUrl": "https://www.google.com/.../72704944984990406-<b>data</b>-<b>engineer</b>-google-ma..."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/5",
+      "id": "5",
+      "derivedStructData": {
+        "title": "Data Engineer - Careers - Google",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png"
+            }
+          ],
+          "metatags": [
+            {
+              "format-detection": "telephone=no",
+              "twitter:image": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png",
+              "referrer": "origin",
+              "twitter:card": "summary_large_image",
+              "handheldfriendly": "true",
+              "twitter:url": "https://careers.google.com/jobs/results/99826183842996934",
+              "og:url": "https://careers.google.com/jobs/results/99826183842996934",
+              "og:image": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png",
+              "twitter:description": "Google's mission is to organize the world's information and make it universally accessible and useful. Our Devices & Services team combines the best of Google AI, Software, and Hardware to create radically helpful experiences for users. We research, design, and develop new technologies and hardware to make our user's interaction with computing faster, seamless, and more powerful. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, the Devices & Services team is making people's lives better through technology.\nThe US base salary range for this full-time position is $220,050 - $226,000 +15% Bonus Target + equity + benefits determined by role, level, and location. Individual pay is determined by additional factors, including job-related skills, experience, and relevant education or training. Learn more about benefits at Google.\nPosition reports to the Google (Mountain View, CA) office & may allow for a hybrid schedule as per Google policy.",
+              "og:image:alt": "Google Careers",
+              "application-url": "https://careers.google.com/",
+              "og:description": "Google's mission is to organize the world's information and make it universally accessible and useful. Our Devices & Services team combines the best of Google AI, Software, and Hardware to create radically helpful experiences for users. We research, design, and develop new technologies and hardware to make our user's interaction with computing faster, seamless, and more powerful. Whether finding new ways to capture and sense the world around us, advancing form factors, or improving interaction methods, the Devices & Services team is making people's lives better through technology.\nThe US base salary range for this full-time position is $220,050 - $226,000 +15% Bonus Target + equity + benefits determined by role, level, and location. Individual pay is determined by additional factors, including job-related skills, experience, and relevant education or training. Learn more about benefits at Google.\nPosition reports to the Google (Mountain View, CA) office & may allow for a hybrid schedule as per Google policy.",
+              "twitter:title": "Data Engineer",
+              "apple-mobile-web-app-capable": "yes",
+              "viewport": "width=device-width, initial-scale=1",
+              "mobileoptimized": "width",
+              "og:type": "website",
+              "og:title": "Data Engineer"
+            }
+          ]
+        },
+        "formattedUrl": "https://www.google.com/about/.../99826183842996934-data-engineer",
+        "htmlFormattedUrl": "https://www.google.com/about/.../99826183842996934-<b>data</b>-<b>engineer</b>",
+        "htmlTitle": "<b>Data Engineer</b> - Careers - Google",
+        "link": "https://www.google.com/about/careers/applications/jobs/results/99826183842996934-data-engineer",
+        "snippets": [
+          {
+            "snippet": "Responsibilities \u00b7 Design and build secure, scalable, and reliable data processing systems and infrastructure. \u00b7 Develop and maintain data models and pipelines\u00a0...",
+            "htmlSnippet": "Responsibilities &middot; Design and build secure, scalable, and reliable <b>data</b> processing systems and infrastructure. &middot; Develop and maintain <b>data</b> models and pipelines&nbsp;..."
+          }
+        ],
+        "displayLink": "www.google.com"
+      }
+    }
+  },
+  {
+    "id": "6",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/6",
+      "id": "6",
+      "derivedStructData": {
+        "displayLink": "openai.com",
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSqfoQ5Ys9d_6tu849yHSy3faRkv9n0oRT6lZnkeaWPid7crfkuma-JM&s",
+              "width": "300",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "twitter:image:width": "1600",
+              "twitter:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "twitter:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:height": "900",
+              "twitter:card": "summary_large_image",
+              "og:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:description": "Applied AI Engineering \u00b7 San Francisco \u00b7 FullTime",
+              "og:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "og:description": "Applied AI Engineering \u00b7 San Francisco \u00b7 FullTime",
+              "twitter:title": "Technical Lead Manager, Data Engineering, Trust & Safety",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Technical Lead Manager, Data Engineering, Trust & Safety",
+              "og:image:height": "900",
+              "og:image:width": "1600",
+              "twitter:site": "@OpenAI"
+            }
+          ]
+        },
+        "formattedUrl": "https://openai.com/.../technical-lead-manager-data-engineering-trust-and-sa...",
+        "title": "Technical Lead Manager, Data Engineering, Trust & Safety | OpenAI",
+        "htmlTitle": "Technical Lead Manager, <b>Data Engineering</b>, Trust &amp; Safety | OpenAI",
+        "link": "https://openai.com/careers/technical-lead-manager-data-engineering-trust-and-safety-san-francisco/",
+        "snippets": [
+          {
+            "snippet": "The Trust & Safety Data Engineering team builds the data foundations that help OpenAI understand, detect, investigate, and mitigate abuse and safety risks\u00a0...",
+            "htmlSnippet": "The Trust &amp; Safety <b>Data Engineering</b> team builds the data foundations that help OpenAI understand, detect, investigate, and mitigate abuse and safety risks&nbsp;..."
+          }
+        ],
+        "htmlFormattedUrl": "https://openai.com/.../technical-lead-manager-<b>data</b>-<b>engineer</b>ing-trust-and-sa..."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/7",
+      "id": "7",
+      "derivedStructData": {
+        "snippets": [
+          {
+            "snippet": "The Human Data engineering team creates the systems that enable scalable, high-quality human feedback. These systems are essential to how OpenAI trains and\u00a0...",
+            "htmlSnippet": "The Human <b>Data engineering</b> team creates the systems that enable scalable, high-quality human feedback. These systems are essential to how OpenAI trains and&nbsp;..."
+          }
+        ],
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSqfoQ5Ys9d_6tu849yHSy3faRkv9n0oRT6lZnkeaWPid7crfkuma-JM&s",
+              "width": "300",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "twitter:image:width": "1600",
+              "twitter:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "twitter:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:height": "900",
+              "twitter:card": "summary_large_image",
+              "og:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:description": "Human Data \u00b7 San Francisco \u00b7 FullTime",
+              "og:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "og:description": "Human Data \u00b7 San Francisco \u00b7 FullTime",
+              "twitter:title": "Software Engineer, Research - Human Data",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Software Engineer, Research - Human Data",
+              "og:image:height": "900",
+              "og:image:width": "1600",
+              "twitter:site": "@OpenAI"
+            }
+          ]
+        },
+        "formattedUrl": "https://openai.com/.../software-engineer-research-human-data-san-francisco...",
+        "htmlFormattedUrl": "https://openai.com/.../software-<b>engineer</b>-research-human-<b>data</b>-san-francisco...",
+        "htmlTitle": "Software <b>Engineer</b>, Research - Human <b>Data</b> | OpenAI",
+        "link": "https://openai.com/careers/software-engineer-research-human-data-san-francisco/",
+        "title": "Software Engineer, Research - Human Data | OpenAI",
+        "displayLink": "openai.com"
+      }
+    }
+  },
+  {
+    "id": "8",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/8",
+      "id": "8",
+      "derivedStructData": {
+        "snippets": [
+          {
+            "snippet": "... Engineer. Robotics. San FranciscoApply now (opens in a new window) \u00b7 Actuator ... Data Science. 2 locationsApply now (opens in a new window) \u00b7 Analytics\u00a0...",
+            "htmlSnippet": "... <b>Engineer</b>. Robotics. San FranciscoApply now (opens in a new window) &middot; Actuator ... <b>Data</b> Science. 2 locationsApply now (opens in a new window) &middot; Analytics&nbsp;..."
+          }
+        ],
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill"
+            }
+          ],
+          "cse_thumbnail": [
+            {
+              "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSqfoQ5Ys9d_6tu849yHSy3faRkv9n0oRT6lZnkeaWPid7crfkuma-JM&s",
+              "width": "300",
+              "height": "168"
+            }
+          ],
+          "metatags": [
+            {
+              "twitter:image:width": "1600",
+              "twitter:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "twitter:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:image:height": "900",
+              "twitter:card": "summary_large_image",
+              "og:image": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "og:image:secure_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+              "twitter:description": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
+              "og:image:alt": "OpenAI wordmark surrounded by colorful abstract illustrations on a white background.",
+              "og:description": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.",
+              "twitter:title": "Careers",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:image:height": "900",
+              "og:title": "Careers",
+              "og:image:width": "1600",
+              "twitter:site": "@OpenAI"
+            }
+          ]
+        },
+        "formattedUrl": "https://openai.com/careers/search/",
+        "htmlFormattedUrl": "https://openai.com/careers/search/",
+        "htmlTitle": "Careers - OpenAI",
+        "link": "https://openai.com/careers/search/",
+        "title": "Careers - OpenAI",
+        "displayLink": "openai.com"
+      }
+    }
+  },
+  {
+    "id": "9",
+    "document": {
+      "name": "projects/968637070986/locations/global/collections/default_collection/dataStores/tom-job-search-data-storage_1789844678170/branches/0/documents/9",
+      "id": "9",
+      "derivedStructData": {
+        "snippets": [
+          {
+            "snippet": "Minimum qualifications: Bachelor's degree or equivalent practical experience. 3 years of experience coding in one or more programming languages.",
+            "htmlSnippet": "Minimum qualifications: Bachelor&#39;s degree or equivalent practical experience. 3 years of experience coding in one or more programming languages."
+          }
+        ],
+        "pagemap": {
+          "cse_image": [
+            {
+              "src": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png"
+            }
+          ],
+          "metatags": [
+            {
+              "format-detection": "telephone=no",
+              "twitter:image": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png",
+              "referrer": "origin",
+              "twitter:card": "summary_large_image",
+              "handheldfriendly": "true",
+              "twitter:url": "https://careers.google.com/jobs/results/129600866381374150",
+              "og:image": "https://www.gstatic.com/hiring/CportalUi/meta/og_image_google_careers.png",
+              "og:url": "https://careers.google.com/jobs/results/129600866381374150",
+              "twitter:description": "gTech\u2019s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech\u2019s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users.\nWith over 2 billion monthly logged-in users, YouTube has grown into a global community where people all over the world access information, share video, and shape culture. The YouTube team helps budding creators build careers, artists and Media Companies reach audiences, creates products like YouTube Kids, YouTube Music, and YouTube TV.\n\nThe YouTube Business Strategy & Operations team is responsible for driving all go-to-market functions for the YouTube Business Organization (Biz Org). The team is responsible for shaping go-to-market priorities to accelerate growt",
+              "og:image:alt": "Google Careers",
+              "og:description": "gTech\u2019s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech\u2019s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users.\nWith over 2 billion monthly logged-in users, YouTube has grown into a global community where people all over the world access information, share video, and shape culture. The YouTube team helps budding creators build careers, artists and Media Companies reach audiences, creates products like YouTube Kids, YouTube Music, and YouTube TV.\n\nThe YouTube Business Strategy & Operations team is responsible for driving all go-to-market functions for the YouTube Business Organization (Biz Org). The team is responsible for shaping go-to-market priorities to accelerate growt",
+              "application-url": "https://careers.google.com/",
+              "twitter:title": "Data Engineer, YouTube Business Organization",
+              "apple-mobile-web-app-capable": "yes",
+              "viewport": "width=device-width, initial-scale=1",
+              "og:title": "Data Engineer, YouTube Business Organization",
+              "og:type": "website",
+              "mobileoptimized": "width"
+            }
+          ]
+        },
+        "formattedUrl": "https://www.google.com/.../129600866381374150-data-engineer-youtube-...",
+        "displayLink": "www.google.com",
+        "htmlTitle": "<b>Data Engineer</b>, YouTube Business Organization \u2014 Google Careers",
+        "link": "https://www.google.com/about/careers/applications/jobs/results/129600866381374150-data-engineer-youtube-business-organization",
+        "title": "Data Engineer, YouTube Business Organization \u2014 Google Careers",
+        "htmlFormattedUrl": "https://www.google.com/.../129600866381374150-<b>data</b>-<b>engineer</b>-youtube-..."
+      }
+    }
+  }
+]
